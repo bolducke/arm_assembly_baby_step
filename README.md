@@ -1,6 +1,6 @@
 # ARMv8 Assembly - Baby Step
 
-More information (here)[https://bolducke.github.io/projects/].
+More information [here](https://bolducke.github.io/projects/)
 
 ## Usage
 
